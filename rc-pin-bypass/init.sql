@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS pins (
+    id SERIAL PRIMARY KEY,
+    pin INTEGER
+);
